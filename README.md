@@ -2,12 +2,16 @@
 
 
 <p align="center">
-<a href="https://github.com/sindresorhus/awesome">
-<img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
-</a>
-<a href="https://twitter.com/blueaquilae">
-<img alt="Awesome" src="https://img.shields.io/twitter/url/https/twitter.com/blueaquilae.svg?style=social&label=Follow%20%40blueaquilae" />
-</a>
+  <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
+    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-254629-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/sindresorhus/awesome">
+    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
+  </a>
+   <a href="https://twitter.com/blueaquilae">
+    <img alt="Awesome" src="https://img.shields.io/twitter/url/https/twitter.com/blueaquilae.svg?style=social&label=Follow%20%40blueaquilae" />
+  </a>
+
 </p>
 
 
@@ -54,8 +58,40 @@ Connect
 
 Calendar
 Meteo
+=======
+<a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
+<img src="https://user-images.githubusercontent.com/1295961/160238710-1b5a987a-478e-41b4-b11c-37be8670a8c9.png"/>
+</a>
 
-</td>
+
+
+#### Demonstrations
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center">
+  <a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
+    <img src="https://user-images.githubusercontent.com/1295961/158429732-0a5dc21e-d051-4c8a-8eea-e58734f9cfd7.gif" width="180"/>
+    
+    Instant 
+    Chat Integration
+    with Stream!
+  </a>
+  </td>
+   <td style="text-align: center">
+    <img width="180" alt="BMW" src="https://user-images.githubusercontent.com/1295961/160239273-ce881c0c-c3de-4953-9448-dfd12d7ffe30.png">
+  
+    BMW
+    Connect
+
+  </td>
+  <td style="text-align: center">
+    <img width="180" alt="BlueAquilae Twitter Meteo" src="https://user-images.githubusercontent.com/1295961/160238906-540a4a0d-b721-4c73-8b58-58b96b5e6414.png">
+  
+
+    Calendar 
+    Meteo
+
+
+  </td>
 
 
 </tr></table></div>
